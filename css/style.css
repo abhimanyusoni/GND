@@ -179,7 +179,7 @@ header{
 }
 
 .tp{
-	background-image: url(../image/123.jpeg);
+	background-image:url(../image/123.jpeg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -190,7 +190,7 @@ header{
 }
 
 .sp{
-	background-image: url(../image/234.jpg);
+	background-image:url(../image/234.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
