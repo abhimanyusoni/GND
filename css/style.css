@@ -111,13 +111,13 @@ header{
 	right: 50px;
 }
 .carousel-control-prev-icon {
-	background-image: url(/image/backk.svg);
+	background-image:url(../image/backk.svg);
 	width: 30px;
 	height: 30px;
 	margin-top: 10px;
 }
 .carousel-control-next-icon {
-	background-image: url(/image/next.svg);
+	background-image:url(../image/next.svg);
 	width: 30px;
 	height: 30px;
 	margin-top: 10px;
